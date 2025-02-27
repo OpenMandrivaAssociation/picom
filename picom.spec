@@ -5,7 +5,7 @@ Source0:	https://github.com/yshui/picom/archive/v%{version}/%{name}-v%{version}.
 Summary:	picom is a compositor for X, and a fork of Compton.
 URL:		https://github.com/yshui/picom
 License:	MPL-2.0 AND MIT
-Group:		System	
+Group:		System/X11/Other
 BuildRequires:	meson
 BuildRequires:	pkgconfig(x11)
 BuildRequires:	pkgconfig(x11-xcb)
