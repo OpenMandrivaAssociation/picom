@@ -1,5 +1,5 @@
 Name:		picom
-Version:	12.4
+Version:	13
 Release:	1
 Source0:	https://github.com/yshui/picom/archive/v%{version}/%{name}-v%{version}.tar.gz
 Summary:	picom is a compositor for X, and a fork of Compton.
