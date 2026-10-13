@@ -45,6 +45,7 @@ picom is a compositor for X, and a fork of Compton.
 %{_sysconfdir}/xdg/autostart/picom.desktop
 %{_bindir}/compton*
 %{_bindir}/picom*
+%{_includedir}/%{name}/*.h
 %{_libdir}/pkgconfig/picom-api.pc
 %{_datadir}/applications/*.desktop
 %{_datadir}/icons/hicolor/48x48/apps/compton.png
